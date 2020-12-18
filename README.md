@@ -1,4 +1,4 @@
-# Hybrid Analysis and Control for Power Electronics
+# Hybrid Modelling and Control for Power Electronics
 
 EECS 563 Fall 2020 Term Project
 
