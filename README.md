@@ -4,7 +4,7 @@ EECS 563 Fall 2020 Term Project
 
 Anand Asokan, Akshay Vijayrao Deshmukh and Kishan Srinivasan 
 
-Link to Report: 
+Link to Report: https://drive.google.com/file/d/1vc-gTlaG3QluSBSA3oL5YqUGGYCV39TM/view?usp=sharing
 
 ### Primary Paper reference: 
 Matthew Senesky,Gabriel Eirea,and T.John Koo, Hybrid Modelling and Control of Power Electronics
